@@ -1,3 +1,3 @@
 # Fun Project
 
-Just adding fun things from internet using WSL
+Just coding fun things I find from internet using WSL
